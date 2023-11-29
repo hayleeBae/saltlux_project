@@ -1,0 +1,15 @@
+# Python 3.9.13
+
+# numpy==1.25.2
+# pandas==2.1.0
+# boto3==1.33.0
+# JPype1 @ file:///C:/Users/user/Desktop/saltlux_project/preprocess/JPype1-1.4.0-cp39-cp39-win_amd64.whl
+# kobert-transformers==0.5.1
+# konlpy==0.6.0
+# lxml==4.9.3
+# scikit-learn==1.3.2
+# torch==2.1.1+cu118
+# torchaudio==2.1.1+cu118
+# torchvision==0.16.1+cu118
+# transformers==4.8.2
+# tensorflow==2.13.1
