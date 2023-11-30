@@ -1,0 +1,2 @@
+# .gitattributes
+transformer/code/kobert_predict.ipynb text eol=lf
