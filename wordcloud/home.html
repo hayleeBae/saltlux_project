@@ -1,0 +1,20 @@
+<!-- templates/home.html (프론트엔드 템플릿) -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Word Cloud App</title>
+</head>
+<body>
+    <h1>Word Cloud App</h1>
+    
+    <form method="post" action="/result">
+        <label for="hospital_name">Hospital Name:</label>
+        <input type="text" id="hospital_name" name="hospital_name" required>
+        <button type="submit">Show Results</button>
+    </form>
+    
+    {% if message %}
+        <p>{{ message }}</p>
+    {% endif %}
+</body>
+</html>
